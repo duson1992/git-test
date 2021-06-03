@@ -4,5 +4,6 @@ public class Test01 {
         System.out.println("master");
         System.out.println("mytest");
         System.out.println("push");
+        System.out.println("pull");
     }
 }
